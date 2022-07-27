@@ -5,9 +5,9 @@ v_loc  AS (SELECT location_id FROM hr.locations),
 v_dept AS (SELECT department_id, location_id FROM hr.departments)
 SELECT v_loc.location_id, COUNT(*) AS "Employees Registered"
 FROM hr.employees emp,
-	 v_dept,
-	 v_loc
-WHERE  emp.department_id = v_dept.department_id AND v_dept.location_id = v_loc.location_id
+     v_dept,
+     v_loc
+WHERE emp.department_id = v_dept.department_id AND v_dept.location_id = v_loc.location_id
 GROUP BY v_loc.location_id;
 
 ------------------------------------
