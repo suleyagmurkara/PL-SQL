@@ -11,8 +11,8 @@ SELECT dept.department_id, dept.department_name, REVERSE(SUBSTR(dept.department_
 FROM hr.departments dept, v_minus
 WHERE dept.department_id = v_minus.deptid
 
---------------------------------------------------
--- DEPARTMENT_ID    DEPARTMENT_NAME            OUTPUT
+-------------------------------------------------------
+-- DEPARTMENT_ID    DEPARTMENT_NAME             OUTPUT
 -- 120	            Treasury                    yru
 -- 130	            Corporate Tax               xaT
 -- 140	            Control And Credit          tid
@@ -29,4 +29,4 @@ WHERE dept.department_id = v_minus.deptid
 -- 250	            Retail Sales                sel
 -- 260	            Recruiting                  gni
 -- 270	            Payroll                     llo
---------------------------------------------------
+-------------------------------------------------------
