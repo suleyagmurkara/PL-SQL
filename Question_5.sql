@@ -18,12 +18,12 @@ CONNECT BY PRIOR dept_name = dept_name
 ORDER BY dept_name;
 
 ---------------------------------------------
--- DEPT_NAME	         REV_STR
--- Benefits	             stifeneB
--- Construction	         noitcurtsnoC
--- Contracting	         gnitcartnoC
--- Control And Credit	 tiderC dnA lortnoC
--- Corporate Tax	     xaT etaroproC
+-- DEPT_NAME             REV_STR
+-- Benefits              stifeneB
+-- Construction          noitcurtsnoC
+-- Contracting           gnitcartnoC
+-- Control And Credit    tiderC dnA lortnoC
+-- Corporate Tax         xaT etaroproC
 -- Government Sales	     selaS tnemnrevoG
 -- IT Helpdesk	         ksedpleH TI
 -- IT Support	         troppuS TI
