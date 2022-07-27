@@ -27,12 +27,12 @@ ORDER BY dept_name;
 -- Government Sales      selaS tnemnrevoG
 -- IT Helpdesk           ksedpleH TI
 -- IT Support            troppuS TI
--- Manufacturing	       gnirutcafunaM
--- NOC	                 CON
--- Operations	           snoitarepO
--- Payroll	             lloryaP
--- Recruiting	           gnitiurceR
--- Retail Sales	         selaS liateR
--- Shareholder Services	 secivreS redloherahS
--- Treasury	             yrusaerT
+-- Manufacturing         gnirutcafunaM
+-- NOC                   CON
+-- Operations            snoitarepO
+-- Payroll               lloryaP
+-- Recruiting            gnitiurceR
+-- Retail Sales          selaS liateR
+-- Shareholder Services  secivreS redloherahS
+-- Treasury              yrusaerT
 ---------------------------------------------
