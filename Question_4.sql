@@ -12,21 +12,21 @@ FROM hr.departments dept, v_minus
 WHERE dept.department_id = v_minus.deptid
 
 --------------------------------------------------
--- DEPARTMENT_ID	DEPARTMENT_NAME           OUTPUT
+-- DEPARTMENT_ID	DEPARTMENT_NAME       OUTPUT
 -- 120	            Treasury                    yru
 -- 130	            Corporate Tax               xaT
 -- 140	            Control And Credit          tid
 -- 150	            Shareholder Services        sec
 -- 160	            Benefits                    sti
--- 170	            Manufacturing	        gni
--- 180	            Construction	        noi
--- 190	            Contracting	            gni
--- 200	            Operations	            sno
--- 210	            IT Support	            tro
--- 220	            NOC	                    CON
--- 230	            IT Helpdesk	            kse
--- 240	            Government Sales	    sel
--- 250	            Retail Sales	        sel
--- 260	            Recruiting	            gni
--- 270	            Payroll	                llo
+-- 170	            Manufacturing               gni
+-- 180	            Construction                noi
+-- 190	            Contracting                 gni
+-- 200	            Operations                  sno
+-- 210	            IT Support                  tro
+-- 220	            NOC                         CON
+-- 230	            IT Helpdesk                 kse
+-- 240	            Government Sales            sel
+-- 250	            Retail Sales                sel
+-- 260	            Recruiting                  gni
+-- 270	            Payroll                     llo
 --------------------------------------------------
