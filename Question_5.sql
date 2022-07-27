@@ -26,12 +26,12 @@ ORDER BY dept_name;
 -- Corporate Tax         xaT etaroproC
 -- Government Sales	     selaS tnemnrevoG
 -- IT Helpdesk	         ksedpleH TI
--- IT Support	         troppuS TI
--- Manufacturing	     gnirutcafunaM
+-- IT Support	           troppuS TI
+-- Manufacturing	       gnirutcafunaM
 -- NOC	                 CON
--- Operations	         snoitarepO
+-- Operations	           snoitarepO
 -- Payroll	             lloryaP
--- Recruiting	         gnitiurceR
+-- Recruiting	           gnitiurceR
 -- Retail Sales	         selaS liateR
 -- Shareholder Services	 secivreS redloherahS
 -- Treasury	             yrusaerT
