@@ -11,7 +11,7 @@ FROM hr.employees emp,
 WHERE emp.department_id = hsal.department_id AND emp.salary = hsal.maxsal
 ORDER BY emp.department_id;
 
-----------------------------------------------
+-------------------------------------------------
 -- DEPARTMENT_ID    EMPLOYEE NAME	    SALARY
 -- 10	            Jennifer Whalen	    4400
 -- 20	            Michael Hartstein       13000
@@ -24,4 +24,4 @@ ORDER BY emp.department_id;
 -- 90	            Steven King	            24000
 -- 100	            Nancy Greenberg	    12008
 -- 110	            Shelley Higgins	    12008
-----------------------------------------------
+-------------------------------------------------
