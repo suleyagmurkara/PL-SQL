@@ -24,9 +24,9 @@ ORDER BY dept_name;
 -- Contracting           gnitcartnoC
 -- Control And Credit    tiderC dnA lortnoC
 -- Corporate Tax         xaT etaroproC
--- Government Sales	     selaS tnemnrevoG
--- IT Helpdesk	         ksedpleH TI
--- IT Support	           troppuS TI
+-- Government Sales      selaS tnemnrevoG
+-- IT Helpdesk           ksedpleH TI
+-- IT Support            troppuS TI
 -- Manufacturing	       gnirutcafunaM
 -- NOC	                 CON
 -- Operations	           snoitarepO
