@@ -12,7 +12,7 @@ FROM hr.departments dept, v_minus
 WHERE dept.department_id = v_minus.deptid
 
 --------------------------------------------------
--- DEPARTMENT_ID  DEPARTMENT_NAME       OUTPUT
+-- DEPARTMENT_ID    DEPARTMENT_NAME         OUTPUT
 -- 120	            Treasury                    yru
 -- 130	            Corporate Tax               xaT
 -- 140	            Control And Credit          tid
