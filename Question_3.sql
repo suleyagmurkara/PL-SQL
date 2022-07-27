@@ -13,7 +13,7 @@ FROM   hr.departments dept, v_minus
 WHERE  dept.department_id = v_minus.deptid
 
 ------------------------------------------------------
--- DEPARTMENT_ID	DEPARTMENT_NAME	5th letter
+-- DEPARTMENT_ID        DEPARTMENT_NAME         5th letter
 -- 120	            Treasury	            s
 -- 130	            Corporate Tax	o
 -- 140	            Control And Credit	r
